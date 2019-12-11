@@ -1,5 +1,5 @@
 # ESP32_ROS
-1. Install ESP32 
+1. Install Arduino ESP32
 
 ```bash
 $cd ~/Arduino
